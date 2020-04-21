@@ -42,9 +42,7 @@ function Home() {
     <div className='container'>
       <div className='wrapper'>
         <h5>
-          The <b>HAMBRG</b>, is a creative, engineer driven, global agency
-          working on advancing the software, advertising and design communities
-          to new heights.
+          This is <b>MINAL AGARWAL</b>, Take you to the dark side of the moon, Still belive in magic yes I do. Dream catcher, art and well I'm the artist
         </h5>
       </div>
     </div>
